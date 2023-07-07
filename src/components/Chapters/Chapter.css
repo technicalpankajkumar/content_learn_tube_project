@@ -1,0 +1,27 @@
+.chapterContainer
+{
+    border:1px solid red;
+}
+
+.chapterContainer .chapterItem
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chapterContainer .topicItem
+{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.chapterContainer .topicItem video
+{
+    width:10%;
+    margin-right: 10px;
+}
+
